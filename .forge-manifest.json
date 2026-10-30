@@ -1,0 +1,9 @@
+{
+  "name": "luna-plugin-tester",
+  "category": "skill",
+  "zhDesc": "插件改动后快速对比测试",
+  "enDesc": "Quickly test and compare changes to a plugin.",
+  "motivation": "高强度改插件时，每次关闭再打开的功夫够跑一轮完整测试了；主人喜欢实打实的干货和对比分析。",
+  "skillName": "plugin-tester",
+  "builtAt": "2026-10-30T17:07:02.072Z"
+}
